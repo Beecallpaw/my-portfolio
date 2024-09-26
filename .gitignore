@@ -1,0 +1,42 @@
+# Node modules
+node_modules/
+
+# Build artifacts
+.build/
+
+# Temporary folders and files
+.tmp/
+.cache/
+
+# Local environment files
+.env
+.env.production
+.env.development
+.env.test
+
+# Public uploads
+public/uploads/
+
+# SQLite database (if you're using SQLite)
+*.sqlite
+
+# VSCode settings (optional)
+.vscode/
+
+# Logs
+*.log
+
+# Yarn lock files
+yarn.lock
+yarn-error.log
+
+# npm lock files
+package-lock.json
+
+# Strapi Admin build files
+build/
+
+# OS specific files (optional)
+.DS_Store
+Thumbs.db
+
